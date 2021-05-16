@@ -1,16 +1,18 @@
-<img src="./images/linkedin_banner.png" />
+<img src="./images/background2.jpg" />
 
 <h1>Hi Traveller, I am <a href="https://prabin-karki.com.np/">Prabin</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="./images/my_image.jpeg" width="230" />
-<pre>
- A passionate Software Developer 🚀 having an experience of building Web ,Mobile and Desktop applications with (Java & Kotlin)/ Swift / JavaScript / Reactjs / Nodejs / NestJs / React Native / MYSQL / MongoDb and some other cool libraries and frameworks. Main Skilled in
-1. Mobile Application Development(Java/Swift), Cross Platform (React Native).
-2. Backend Developer (Node Js, Nest Js, Spring Boot, PHP Laravel framework).
-3. Web Design & Development ( React JS, Html, css, Jquery).
-4. Database Mysql, MogoBD, Firebase Realtime Database.
-5. UI/UX Designer (Figma).
-Strong engineering professional with a Bachelor of Engineering focused in Computer Science from Bangalore Technological Institute (VTU), BANGALORE.
-  </pre>
+<div>
+ <p>A passionate Software Developer 🚀 having an experience of building Web ,Mobile and Desktop applications with (Java & Kotlin)/ Swift / JavaScript / Reactjs / Nodejs / NestJs / React Native / MYSQL / MongoDb and some other cool libraries and frameworks. Main Skilled in</p>
+<ul>
+<li>Mobile Application Development(Java/Swift), Cross Platform (React Native).</li>
+<li>Backend Developer (Node Js, Nest Js, Spring Boot, PHP Laravel framework)</li>
+<li>Database Mysql, MogoBD, Firebase Realtime Database.</li>
+<li>UI/UX Designer (Figma).</li>
+<li>AWS Services</li>
+</ul>
+<p>Strong engineering professional with a Bachelor of Engineering focused in Computer Science from Bangalore Technological Institute (VTU), BANGALORE.</p>
+  </div>
 <a href="https://www.linkedin.com/in/prabin-karki-936546159/"><img src="./logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/githubprabin143"><img src="./logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/pravin.karki.98"><img src="./logos/facebook.png" width="40" /></a>
@@ -37,7 +39,7 @@ Strong engineering professional with a Bachelor of Engineering focused in Comput
   </ul>
 </details>
 <details>
-<summary>Summary<summary>
+<summary>In Summary</summary>
 <ul>
 <li>Develop highly interactive mobile applications for Android (JAVA & Kotlin)</li>
 <li>Develop highly interactive mobile applications for both Android & IOS (REACT NATIVE)</li>
