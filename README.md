@@ -1,4 +1,4 @@
-<center><img align='center' height="150" src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" /></center>
+<center><img align='center' height="150" width="100%" src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" /></center>
 
 <h1>Hi Traveller, I am <a href="https://prabin-karki.com.np/">Prabin</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="./images/my_image.jpeg" width="230" />
