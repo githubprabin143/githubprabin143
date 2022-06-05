@@ -14,7 +14,7 @@
 <p>Strong engineering professional with a Bachelor of Engineering focused in Computer Science from Bangalore Technological Institute (VTU), BANGALORE.</p>
   </div>
 <a href="https://www.linkedin.com/in/prabin-karki-936546159/"><img src="./logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/githubprabin143"><img src="./logos/github-logo.png" width="40" /></a>
+<a href="https://github.com/prabinkarki643"><img src="./logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/pravin.karki.98"><img src="./logos/facebook.png" width="40" /></a>
 <a href="mailto:prabinkarki643@gmail.com​"><img src="./logos/google-plus.png" width="40" /></a>
 <a href="https://www.npmjs.com/~prabink"><img src="./logos/npmlogo.png" width="40" /></a>
@@ -57,4 +57,4 @@
   <li>You can read my <a href="https://codeisindna.com/">blog posts</a>.</li>
 </ul>
 
-[![Prabin's Github Stats](https://github-readme-stats.vercel.app/api?username=githubprabin143&show_icons=true&count_private=true)](https://github.com/githubprabin143/github-readme-stats)
+[![Prabin's Github Stats](https://github-readme-stats.vercel.app/api?username=prabinkarki643&show_icons=true&count_private=true)](https://github.com/prabinkarki643/github-readme-stats)
